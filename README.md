@@ -1,3 +1,3 @@
 # ct-OS-bootanimation
 bootanimation of ct-OS
-https://github.com/ct-OS/ct-OS-bootanimation/ct-OS.gif
+![gif ct-OS](https://github.com/ct-OS/ct-OS-bootanimation/blob/master/ct-OS.gif)
